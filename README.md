@@ -1,3 +1,3 @@
 # In Progress
 
-Python bindings will be done the week of 02.23.15. Sorry for the delay!
+Python bindings will be done the week of 03.09.15. Sorry for the delay!
